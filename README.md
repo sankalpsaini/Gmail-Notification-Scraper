@@ -1,5 +1,4 @@
-# unreadgmail
-This script shows the total number of unread emails in a specific account. It can be altered to show the contents of each email.
+# This script shows the total number of unread emails in a specific account. It can be altered to show the contents of each email.
 
 For Gmail specifically, you must give access to less secure apps in order for imaplib to access your acount.
 
