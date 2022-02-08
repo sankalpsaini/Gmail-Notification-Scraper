@@ -4,8 +4,8 @@ import imaplib
 mail = imaplib.IMAP4_SSL('imap.gmail.com')
 
 # get login and password information from user (can also adapt to get user input)
-login = 'sankalp_volunteer@solaralberta.ca'
-password = 'seCxo7-repnyn-rogkib'
+login = 'username here'
+password = 'password here'
 
 #login using credentials
 mail.login(login, password)
